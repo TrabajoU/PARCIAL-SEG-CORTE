@@ -8,7 +8,7 @@
 
 Este proyecto está siendo desarrollado por un grupo estudiantes, cada uno con diferentes habilidades en diseño, desarrollo frontend, backend y gestión de proyectos. Nuestro objetivo es construir una aplicación web moderna, funcional y con una excelente experiencia de usuario.
 
-- 👤 Jhostin 
+- 👤 Jhostin Pabón 
 - 👤 Miguel Ureche
 
 ## 📝 Descripción del Proyecto
